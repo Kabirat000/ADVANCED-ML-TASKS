@@ -39,12 +39,6 @@ weighted avg 0.81 0.74 0.76 1409
 These results indicate that the XGBoost model performs reasonably well in predicting customer churn in the telecom industry.
 **I also exported the trained Machine Learning models so it can be reused for future preductions on new data or even be applied to another problem without retraining the model from scratch.**
 
-## Usage
-To replicate and extend this project, follow these steps:
-1. Clone the repository:
-`git clone` https://github.com/Abdulraqib20/telecom-churn-prediction.git
-2. Install the required dependencies:
-`pip install -r requirements.txt`
  
  ## Conclusion
 Customer churn prediction is a critical task for businesses in the telecom industry. By accurately identifying customers at risk of churning, companies can implement targeted retention strategies to reduce customer attrition and improve customer satisfaction.
